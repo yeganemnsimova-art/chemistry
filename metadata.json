@@ -1,0 +1,6 @@
+{
+  "name": "ChemQuest — Kimya Detektivi",
+  "description": "Azərbaycan dilində interaktiv kimya detektivi oyunu, süni intellekt əsaslı sirr generatoru və virtual laboratoriya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
